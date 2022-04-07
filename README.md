@@ -20,7 +20,7 @@
 
 # Danh sách thành viên:
 | Họ và tên      | MSSV | Avatar |
-| :---        |    :----:   |          :---: |
+| :---:        |    :----:   |          :---: |
 | [Trần Phú Vinh](https://github.com/Zrmikstri "Vinh's github")      | 20522161       | ![image](https://user-images.githubusercontent.com/79463278/162102230-a2a4fdd4-a7dd-4375-af9b-5dbbde72b47e.png)  |
 | [Đào Trần Anh Tuấn](https://github.com/daotrananhtuan09102002 "Tuấn's github")   | 20522107        | ![image](https://user-images.githubusercontent.com/79463278/162102058-e574d00e-133f-4775-be5f-f377ba21423b.png)      |
 | [Lê Trần Hữu Phước](https://github.com/greentealatte2105 "Phước's github") | 20521775 | ![image](https://user-images.githubusercontent.com/79463278/162102133-7621dbd1-862c-4acf-ab98-4e27f4df3c6b.png)|
