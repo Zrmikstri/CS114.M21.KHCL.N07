@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <!-- Banner -->
 <p align="center">
   <a href="https://www.uit.edu.vn/" title="Trường Đại học Công nghệ Thông tin" style="border: none;">
