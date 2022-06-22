@@ -38,7 +38,8 @@ def detect(input_vid_path):
         out.write(frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-
+    
+    print('Done')
     cap.release()
     out.release()
     cv2.destroyAllWindows()
