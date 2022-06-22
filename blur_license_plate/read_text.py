@@ -2,7 +2,7 @@ import numpy as np
 import pandas as pd
 import warnings
 warnings.filterwarnings("ignore")
-f = open('output.txt', 'r')
+f = open('/content/output.txt', 'r')
 lst = f.read().split('Objects:')
 f.close()
 
@@ -26,5 +26,5 @@ for i in range(1, len(lst)):
         df = df.append(df2, ignore_index=True)
         continue
 
-df.to_csv('output.csv', index=False)
+df.to_csv('/content/output.csv', index=False)
 print(df)

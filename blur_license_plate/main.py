@@ -46,7 +46,8 @@ def detect(input_vid_path):
 
 def parse_arguments():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--input_vid_path', type=str)
+    parser.add_argument('-i', '--input_vid_path', type=str, required=True,
+                        help='input video path')
     args = parser.parse_args()
     return args
 
