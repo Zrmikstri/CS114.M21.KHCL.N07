@@ -32,8 +32,8 @@ def detect(input_vid_path):
             w = int(df[df.Frame == count]['Width'].iloc[i])
             h = int(df[df.Frame == count]['Height'].iloc[i])
             # cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 255, 0), 2)
-            blur_img = cv2.blur(frame[y: y + h, x: x + w], (int(w)//4, int(h)//4), 0)
-            frame[y: y + h, x: x + w] = blur_img
+            # blur_img = cv2.blur(frame[y: y + h, x: x + w], (int(w)//4, int(h)//4), 0)
+            frame[y: y + h, x: x + w] = (0, 255, 0)
         # cv2.imshow('frame', frame)
         out.write(frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
