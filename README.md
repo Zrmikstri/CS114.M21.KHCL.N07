@@ -21,9 +21,9 @@
 # Danh sách thành viên:
 | Họ và tên      | MSSV | Avatar |
 | :---:        |    :----:   |          :---: |
-| [Trần Phú Vinh](https://github.com/Zrmikstri "Vinh's github")      | 20522161       | ![image](https://user-images.githubusercontent.com/79463278/162102230-a2a4fdd4-a7dd-4375-af9b-5dbbde72b47e.png)  |
-| [Đào Trần Anh Tuấn](https://github.com/daotrananhtuan09102002 "Tuấn's github")   | 20522107        | ![image](https://user-images.githubusercontent.com/79463278/162102058-e574d00e-133f-4775-be5f-f377ba21423b.png)      |
-| [Lê Trần Hữu Phước](https://github.com/greentealatte2105 "Phước's github") | 20521775 | ![image](https://user-images.githubusercontent.com/79463278/162102133-7621dbd1-862c-4acf-ab98-4e27f4df3c6b.png)|
+| [Trần Phú Vinh](https://github.com/Zrmikstri "Vinh's github")      | 20522161       | ![image](https://media.discordapp.net/attachments/945132357487329360/996334585371697232/unknown.png)  |
+| [Đào Trần Anh Tuấn](https://github.com/daotrananhtuan09102002 "Tuấn's github")   | 20522107        | <img src="https://media.discordapp.net/attachments/945132357487329360/996332249215684678/31aa9a0333bcf0e2a9ad.jpg" alt="Your image title" width="250"/>|  
+| [Lê Trần Hữu Phước](https://github.com/greentealatte2105 "Phước's github") | 20521775 |<img src="https://scontent.fdad3-4.fna.fbcdn.net/v/t1.6435-9/74406399_2380567492215652_9107474483265929216_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=fAhsvyQ058gAX_3tguk&_nc_ht=scontent.fdad3-4.fna&oh=00_AT9yf5_C23hdJkp4i53DXXOj9EZhzYRFM-nv5uL8CTOz0w&oe=62F45FE3" alt="Your image title" width="250"/> |
 
 # Group 07
 * __Số thứ tự:__ 07
