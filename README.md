@@ -27,6 +27,4 @@
 
 # Group 07
 * __Số thứ tự:__ 07
-* __Tên chủ đề:__ 
-* __Mục tiên:__ 
-* __Nội dung chi tiết:__ 
+* __Tên chủ đề:__ Phát hiện và làm mờ biển số xe Việt Nam.
